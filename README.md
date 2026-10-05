@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and MS Information Management graduate from the University of Illinois Urbana-Champaign, focused on backend engineering, cloud applications, automation, and data-driven systems.
 
-I have 2+ years of software engineering experience working with Java, Spring Boot, Python, REST APIs, SQL, AWS, and CI/CD across financial services, FinTech, healthcare, and cybersecurity.
+I have 3+ years of software engineering experience working with Java, Spring Boot, Python, REST APIs, SQL, AWS, and CI/CD across financial services, FinTech, healthcare, and cybersecurity.
 
 I enjoy turning complex workflows and data into reliable, usable software.
 
